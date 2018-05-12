@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 45933-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45933#Romances-of-Old-JapanRendered-into-English-from-Japanese-Sources
 gutenberg_issued: '2014-06-11'
 gutenberg_type: Text
 identifiers:
