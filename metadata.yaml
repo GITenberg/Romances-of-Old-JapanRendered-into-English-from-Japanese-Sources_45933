@@ -1,0 +1,29 @@
+_repo: Romances-of-Old-JapanRendered-into-English-from-Japanese-Sources_45933
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ozaki, Yei Theodora
+    alias: Ozaki, Yukio, Madame
+    gutenberg_agent_id: '1360'
+    url: http://www.gutenberg.org/2009/agents/1360
+    wikipedia: http://en.wikipedia.org/wiki/Yei_Theodora_Ozaki
+covers:
+- cover_type: archival
+  image_path: 45933-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45933'
+  lccn: '23005810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Japanese fiction -- Translations into English'
+title: 'Romances of Old Japan
+
+  Rendered into English from Japanese Sources'
+url: http://www.gutenberg.org/ebooks/45933
